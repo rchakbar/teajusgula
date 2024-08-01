@@ -3,9 +3,9 @@
 
 
 how to use:
-install node.js
-install dependencies
-npm adduser
+- install node.js
+- install dependencies
+- npm adduser
 create file create-dependencies.sh in your directory
 copy and paste script below to the file
 edit name package dev1, dev2, etc. as musch as you want 50-100 packages on
