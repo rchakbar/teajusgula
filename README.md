@@ -14,7 +14,7 @@ DEPENDENCIES=("dev1" "dev2" "dev3")
 - Save file
 - type: chmod +x create-dependencies.sh
 - ./create-dependencies.sh
-done
+- done
 
 script👇👇👇
 
