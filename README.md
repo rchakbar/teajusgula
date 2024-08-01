@@ -1,5 +1,5 @@
-#Script bot npm for push dependent 
-#By github.com/rchakbar
+# Script bot npm for push dependent 
+# By github.com/rchakbar
 
 
 how to use:
