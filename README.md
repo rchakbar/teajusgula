@@ -1,4 +1,4 @@
-# Script bot npm for push dependent 
+# Script bot npm for push dependents
 # By github.com/rchakbar
 
 
